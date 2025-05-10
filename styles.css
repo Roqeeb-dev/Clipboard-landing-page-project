@@ -6,7 +6,7 @@ p {
     color: hsl(210, 10%, 33%);
 }
 .first-page {
-    height: 100vh;
+    height: 80vh;
     background-image: url(images/bg-header-desktop.png);
     background-repeat: no-repeat;
     background-size: cover;
@@ -177,7 +177,7 @@ p {
         display: flex;
         flex-direction: column;
         text-align: center;
-        padding: 50px;
+        padding: 40px;
     }
     .first-page h1 {
         font-size: 2rem;
